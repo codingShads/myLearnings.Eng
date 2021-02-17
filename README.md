@@ -1,2 +1,0 @@
-# myLearnings.Eng
-myLEarnings Repository
